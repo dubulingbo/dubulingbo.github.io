@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dubulingbo.github.io</id>
-    <title>Habitplus の ブログ</title>
+    <title>Habitplus&#39;s Blog</title>
     <subtitle>世间本无难事，为之则易</subtitle>
     <icon>https://dubulingbo.github.io/images/favicon.ico</icon>
     <link href="https://dubulingbo.github.io" />
@@ -38,21 +38,64 @@
     </entry>
     <entry>
         <id>https://dubulingbo.github.io/personal-summary/hello-world/</id>
-        <title>Hello World</title>
+        <title>视频测试</title>
         <link rel="alternate" href="https://dubulingbo.github.io/personal-summary/hello-world/"/>
-        <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo new &lt;span class=&#34;token string&#34;&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
+        <content type="html">&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;以下为站点的视频测试。&lt;br /&gt;
+视频内容来源 Netease Music，如有侵权，请联系删除！&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;视频&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#视频&#34;&gt;#&lt;/a&gt; 视频&lt;/h2&gt;
+&lt;p&gt;&lt;div class=&#34;media-container&#34;&gt;&lt;div class=&#34;player&#34; data-type=&#34;video&#34; data-src=&#39;[{&#34;name&#34;:&#34;生活总该迎着光亮 - 周深&#34;,&#34;url&#34;:&#34;https://vodkgeyttp9.vod.126.net/cloudmusic/obj/w5zDkcKQw6LDiWzDgcK2/12870434868/f808/0042/c056/d22d03f6b33832a3008bf2c253f82140.mp4?ts=1677292565&amp;rid=F7F2CF69A171C46A434B8B0742867F14&amp;rl=3&amp;rs=xzDGWxHdXXPzQoitmyBVwUJhLODHcjKc&amp;sign=940eabe516d21ef58b42065285efa268&amp;ext=9o2t5fXK9Y30tX1qV3U58nuhU2lnJTyxJmd5QxxqIGNv2C5hYJG8w8w4ad1YyfyfdfC7GIBRLQati5ZfnOY8EU6caMk7ecmCbSGvJ09Ue6yi65AMshrMGVhBPbkpAYAoTHGHP3E96S%2FRHFOl390pdDm0WkzMU9oLWXbk5ZgBhmAgT7P63R3%2BW4wNT6KQvu7rXqcMamLSNjUo%2Fh%2F0xNPR5qb8%2B3Nb3GJo6pI8FEUrNd1LOhMYqwO%2FLp6To5gUCWuzhiXUNDwc7sTdWCu3AgfYFnEgZaAErSGoOut6IZAhvkRN1UqS5FGQfu9NQuHnH3dRD1VSbnhOpAWY7j1KBULmCsQ9iYkOK4WEMTWIif2j0Atd3%2Bf5dYg00OnwshFUXj3m0AnV3N%2FuP4zNj6w3cgqjbBVNeq5%2BPTzcgozr0kbWwYTySrQl1JWh0oPxmBmEEXWhluTHhPL5EVUdktbSCLYDYXYmkj4oJHWn6Zihj2DXHA4XxC5prj%2FQfqNMx7xt5ZCaVFTBn6GNH0ePOFX6x88gyXhIrUp%2Bx7dUqMWjdakzUCApJrW4Qgb%2FtRy6mU9oFmKp&#34;},{&#34;name&#34;:&#34;IU - Celebrity&#34;,&#34;url&#34;:&#34;https://vodkgeyttp9.vod.126.net/vodkgeyttp8/8yicSElp_3669762318_uhd.mp4?ts=1677293641&amp;rid=F7F2CF69A171C46A434B8B0742867F14&amp;rl=3&amp;rs=vXvJxuLfAfovWjUSmciJbviZpPOLtLMi&amp;sign=903a2082af3a8199fa8a029db2330a4b&amp;ext=9o2t5fXK9Y30tX1qV3U58nuhU2lnJTyxJmd5QxxqIGNv2C5hYJG8w8w4ad1YyfyfdfC7GIBRLQati5ZfnOY8EU6caMk7ecmCbSGvJ09Ue6yi65AMshrMGVhBPbkpAYAoTHGHP3E96S%252FRHFOl390pdDm0WkzMU9oLWXbk5ZgBhmAgT7P63R3%252BW4wNT6KQvu7rXqcMamLSNjUo%252Fh%252F0xNPR5qb8%252B3Nb3GJo6pI8FEUrNd1LOhMYqwO%252FLp6To5gUCWuzhiXUNDwc7sTdWCu3AgfYFnEgZaAErSGoOut6IZAhvkRN1UqS5FGQfu9NQuHnH3dRD1VSbnhOpAWY7j1KBULmCsQ9iYkOK4WEMTWIif2j0Atd3%252Bf5dYg00OnwshFUXj3m0AnV3N%252FuP4zNj6w3cgqjbBVNeq5%252BPTzcgozr0kbWwYTySrQl1JWh0oPxmBmEEXWhluTHhPL5EVUdktbSCLYDYXYmkj4oJHWn6Zihj2DXHA4XxC5prj%252FQfqNMx7xt5ZCaVFTBn6GNH0ePOFX6x88gyXhIrUp%252Bx7dUqMWjdakzUCDHf4RwlSKeIbPwDitDeaHJ&#34;},{&#34;name&#34;:&#34;春风十里 - 鹿先森乐队&#34;,&#34;url&#34;:&#34;https://vodkgeyttp8.vod.126.net/cloudmusic/cea5/core/1735/31baaa1ffe44b5de35d65b7b150a9195.mp4?wsSecret=deac644cab7d398b2213efccd282dce7&amp;wsTime=1677290445&#34;}]&#39;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
 </content>
         <category term="个人总结" scheme="https://dubulingbo.github.io/categories/personal-summary/" />
         <updated>2023-02-24T09:02:25.316Z</updated>
+    </entry>
+    <entry>
+        <id>https://dubulingbo.github.io/hexo-build-and-theme-beautify/push-deploy/</id>
+        <title>教程 -&gt; Hexo博客部署，发布到Github Pages</title>
+        <link rel="alternate" href="https://dubulingbo.github.io/hexo-build-and-theme-beautify/push-deploy/"/>
+        <content type="html">&lt;h2 id=&#34;缘起&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#缘起&#34;&gt;#&lt;/a&gt; 缘起&lt;/h2&gt;
+&lt;p&gt;​       鉴于共享学习与开放交流精神，将个人博客开放到外网。（看上去有点 zhuang）其实真是原因就是 1：租服务器成本太高；2：还得买域名和搭建环境，太麻烦，不太适合初学者（后续考虑迁移到自己云服务器）。&lt;/p&gt;
+&lt;h2 id=&#34;构建hexo博客页面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#构建hexo博客页面&#34;&gt;#&lt;/a&gt; 构建 hexo 博客页面&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;关于如何搭建 hexo 环境写博客，请参考&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmFpZHUuY29t&#34;&gt; hexo 博客搭建教程&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;进入博客根目录，执行下述&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL3poLWNuL2RvY3MvY29tbWFuZHM=&#34;&gt;命令&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;hexo clean&lt;/strong&gt; ：清理原来的构建痕迹，已便重新构建&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;&lt;strong&gt;hexo generate | hexo g&lt;/strong&gt; ：生产静态页面，默认会在  &lt;code&gt;&amp;lt;root&amp;gt;/public&lt;/code&gt;  目录下&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;hexo deploy&lt;/strong&gt; ：部署网站&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;发布到github-pages&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#发布到github-pages&#34;&gt;#&lt;/a&gt; 发布到 GitHub Pages&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;官网教程：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLmdpdGh1Yi5jb20vZW4vcGFnZXM=&#34;&gt;https://docs.github.com/en/pages&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;新建git-repository&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新建git-repository&#34;&gt;#&lt;/a&gt; 新建 Git repository&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;仓库的名称&lt;mark&gt;一定&lt;/mark&gt;要是  &lt;code&gt;github账号.github.io&lt;/code&gt; &amp;lt;sup&amp;gt;①&amp;lt;/sup&amp;gt;，且为 &lt;strong&gt;public&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;D:\bak\E\TYPORA_FILES\Hexo 博客部署到 github page 教程.assets\image-20230225071621272.png&amp;quot; alt=&amp;quot;image-20230225071621272&amp;quot; style=&amp;quot;zoom:40%;&amp;quot; /&amp;gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在 &amp;lt;root&amp;gt;/_config.yml 中添加如下配置：&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 文章路径配置，否则不能通过链接访问&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; https&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;//dubulingbo.github.io&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;root&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; /&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 部署服务器配置&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;deploy&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;type&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;repo&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; https&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;//github.com/dubulingbo/dubulingbo.github.io.git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;branch&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; gh&lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;pages&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;部署&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#部署&#34;&gt;#&lt;/a&gt; 部署&lt;/h3&gt;
+&lt;p&gt;在项目的根目录 ==&amp;lt;root&amp;gt;== 下，执行&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo deploy  &lt;span class=&#34;token comment&#34;&gt;#或者 hexo d&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;​       至此，您的博客就已经成功部署到 github 上，并且通过键入  &lt;code&gt;你的github账号.github.io&lt;/code&gt;  就能访问呢。感谢无名大佬们，让我终于倒腾出来了，后续再去弄清楚配置一键部署。&lt;/p&gt;
+&lt;h2 id=&#34;参考资料&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考资料&#34;&gt;#&lt;/a&gt; 参考资料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL3poLWNuL2RvY3MvZ2l0aHViLXBhZ2Vz&#34;&gt;https://hexo.io/zh-cn/docs/github-pages&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L05pZ2h0X19icmVlemUvYXJ0aWNsZS9kZXRhaWxzLzExNzYwNzA0OQ==&#34;&gt;https://blog.csdn.net/Night__breeze/article/details/117607049&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;lt;hr /&amp;gt;&lt;/p&gt;
+&lt;p&gt;① 如果这么配置，将会出现静态资源文件获取 404，且访问博客首页时需得叫上仓库名才行，即  &lt;code&gt;你的github账号.github.io/仓库名&lt;/code&gt;&lt;/p&gt;
+</content>
+        <category term="Hexo博客搭建及主题美化" scheme="https://dubulingbo.github.io/categories/hexo-build-and-theme-beautify/" />
+        <category term="Hexo" scheme="https://dubulingbo.github.io/tags/Hexo/" />
+        <category term="Github Pages" scheme="https://dubulingbo.github.io/tags/Github-Pages/" />
+        <category term="教程" scheme="https://dubulingbo.github.io/tags/%E6%95%99%E7%A8%8B/" />
+        <updated>2023-02-24T02:04:00.000Z</updated>
     </entry>
     <entry>
         <id>https://dubulingbo.github.io/about/</id>
@@ -88,9 +131,9 @@
         <updated>2023-02-22T10:52:38.863Z</updated>
     </entry>
     <entry>
-        <id>https://dubulingbo.github.io/efficiency-work/%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
+        <id>https://dubulingbo.github.io/efficiency-work/popular-keyboard/</id>
         <title>快捷键 - 搜集比较常用的快捷键</title>
-        <link rel="alternate" href="https://dubulingbo.github.io/efficiency-work/%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+        <link rel="alternate" href="https://dubulingbo.github.io/efficiency-work/popular-keyboard/"/>
         <content type="html">&lt;h2 id=&#34;一-windows-10-快捷键&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-windows-10-快捷键&#34;&gt;#&lt;/a&gt; 一、Windows 10 快捷键&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
